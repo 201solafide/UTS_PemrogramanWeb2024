@@ -1,0 +1,35 @@
+body{
+    font-family: 'Trebuchet MS',sans-serif;
+    margin: 20px;
+}
+
+form{
+    width: 300px;
+    margin: 0 auto;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+#nama, #email, #NIM{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+button{
+    background-color: brown;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+table{
+    width: 80%;
+    margin: 0 auto;
+}
+table tr td{
+    padding: 10px;
+}
